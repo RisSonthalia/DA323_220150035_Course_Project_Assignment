@@ -6,6 +6,8 @@ This repository contains my analysis and blog on the [Speech2Face: Learning the 
 ## By
 **Name:** Rishab Sonthalia  
 **Roll No.:** 220150035
+## Presentation Link 
+[Youtube Presentation Link](https://www.youtube.com/watch?v=Ph7Rr5fvps4)
 
 ## Contents
 The Jupyter notebook in this repository includes:
