@@ -33,3 +33,8 @@ The Speech2Face model demonstrates interesting correlations between voice and ph
 1. Clone this repository
 2. Open the Jupyter notebook to view the complete analysis
 3. Follow along with the markdown sections for a structured exploration of the paper
+
+## Reference
+
+- [Speech2Face: Learning the Face Behind a Voice](https://arxiv.org/pdf/1905.09773)
+
