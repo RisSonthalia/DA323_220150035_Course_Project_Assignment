@@ -1,7 +1,7 @@
 # Speech2Face Paper Analysis - DA323 Course Project Assignment
 
 ## Project Overview
-This repository contains my analysis and blog on the [Speech2Face: Learning the Face Behind a Voice](https://arxiv.org/pdf/1905.09773) paper by Oh et al. The blog explores how deep learning can be used to reconstruct facial features from voice data, examining both technical aspects and ethical considerations of this technology.
+This repository contains my analysis and blog on the [Speech2Face: Learning the Face Behind a Voice](https://arxiv.org/pdf/1905.09773) paper. The blog explores how deep learning can be used to reconstruct facial features from voice data, examining both technical aspects and ethical considerations of this technology.
 
 ## By
 **Name:** Rishab Sonthalia  
